@@ -1,7 +1,7 @@
 ### *<p>(English isn't my main language, sorry if I made a few mistakes)</p>*
 ### Hi there, I'm Junior M. Soares – I had some contacts with programming as a hobby, so in 2019 I joined the Federal University of the State of Rio de Janeiro's Information Systems course and currently I'm at 2nd period.
 ### About me 🧝🏼 <p> I love music, games and comics/animes – 🎵 Progressive Rock, Hip-Hop, R&B, weird experimental music, IDM, Alternative, The Who, brazilian Rap, early Genesis, Brockhampton. 🎮 Indie games, RPG, retro, The Witcher, Souls like. 📺 Seinen, dark fantasy, cult, medieval, horror, cyberpunk, Berserk, Chainsaw Man, Hunter X Hunter, Sandman. </p>
-### Social media 💻 <p> Facebook http://fb.com/jvvniorlwl </p><p> Instagram http://instagr.am/soaresmjnr </p>
+### Social media 💻 <p> Facebook http://fb.com/jvvniorlwl <br> Instagram http://instagr.am/soaresmjnr </p>
 
 <!--
 **jrmsrs/jrmsrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
