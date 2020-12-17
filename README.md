@@ -1,5 +1,6 @@
 ##### *<p>(English isn't my main language, sorry if I made a few mistakes)</p>*
-### Hi there, I'm Junior M. Soares – I had some contacts with programming as a hobby, so in 2019 I joined the Federal University of the State of Rio de Janeiro's Information Systems course and currently I'm at 2nd period.
+### Hi there, I'm Junior M. Soares
+I had some contacts with programming as a hobby, so in 2019 I joined the Federal University of the State of Rio de Janeiro's Information Systems course and currently I'm at 2nd period.
 ### About me 🧝🏼 
 I love music, games and comics/animes – Massive fan of 🎵 Progressive Rock, Hip-Hop, R&B, weird experimental music, IDM. 🎮 Indie, retro, RPG, The Witcher, Souls like. 📺 Dark fantasy, medieval, horror, Berserk, Chainsaw Man, Hunter X Hunter, Sandman, cult.
 ### Social media 💻 
