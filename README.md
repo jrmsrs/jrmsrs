@@ -5,6 +5,8 @@ I love music, games and comics/animes – Massive fan of 🎵 Progressive Rock, 
 ### Social media 💻 
 Facebook http://fb.com/jvvniorlwl <br> Instagram http://instagr.am/soaresmjnr
 
+##### *<p>~~sorry for my bobs and vegana english~~</p>*
+
 <!--
 **jrmsrs/jrmsrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
